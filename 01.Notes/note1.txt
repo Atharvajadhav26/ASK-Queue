@@ -1,0 +1,4 @@
+Continue from exactly where you stopped. 
+Do not repeat completed work. 
+First inspect what has already been changed, 
+then continue the remaining fixes and regression testing.
